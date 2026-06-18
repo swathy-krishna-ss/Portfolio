@@ -6,6 +6,13 @@ import { Button } from "@/components/ui/button";
 
 const blogPosts = [
   {
+    title: "At the Helm",
+    date: "May 2023",
+    url: "https://theecodesk.blogspot.com/2023/05/at-helm.html",
+    excerpt: "The nature had her skin drenched by the mist and kissed by the dew drops. The jasmines danced, roses smiled, and the Helios was there to ki...",
+    summary: "A vivid and poetic observation of nature awakening, capturing the interplay between mist, flora, and sunlight. Evokes a sense of serene beauty and the delicate balance of the natural world.",
+  },
+  {
     title: "The Mask",
     date: "March 2023",
     url: "https://theecodesk.blogspot.com/2023/03/the-mask.html",
